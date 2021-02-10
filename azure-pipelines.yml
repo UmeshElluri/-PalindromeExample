@@ -13,5 +13,5 @@ steps:
 - task: CmdLine@2
   inputs:
     script: |
-      javac z.java
-      java z
+      javac  PalindromeExample.java
+      java PalindromeExample
